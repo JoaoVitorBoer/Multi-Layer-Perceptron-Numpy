@@ -13,4 +13,7 @@ Numpy-MLP is a multi-layer perceptron (MLP) library implemented purely in Numpy.
 - **Models:** MLP
 - **Utilities:** General utility functions for data manipulation and performance metrics
 
-For more than 50 epochs, set the report to False
+* When configuring your MLP model to use SoftMax activation function, follow steps below:
+
+- **Last Layer Configuration:** Use a `Linear` activation function in the last dense layer. 
+- **Loss Function:** Pair this configuration with the `CategoricalCrossEntropy` (CCE) loss. 
