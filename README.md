@@ -12,3 +12,5 @@ Numpy-MLP is a multi-layer perceptron (MLP) library implemented purely in Numpy.
 - **Layers:** Dense
 - **Models:** MLP
 - **Utilities:** General utility functions for data manipulation and performance metrics
+
+For more than 50 epochs, set the report to False
