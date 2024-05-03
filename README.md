@@ -1,2 +1,3 @@
-# Multi-Layer-Perceptron-Numpy
-MLP numpy-based
+# Multi Layer Perceptron Numpy
+
+MLP implemented using only numpy. 
