@@ -1,6 +1,6 @@
 # Multi Layer Perceptron Numpy
 
-Numpy-MLP is a multi-layer perceptron (MLP) library implemented purely in Numpy. This is designed for educational purposes, providing a deep understanding of the neural networks mechanics without the complexity of advanced libraries. It features multiple basics activation functions, weight initializers, datasets, cost functions, optimizers, and utility functions.
+Numpy-MLP is a multi-layer perceptron (MLP) library implemented purely in Numpy. This is designed only for educational purposes, providing a deep understanding of the neural networks mechanics without the complexity of advanced libraries. It features multiple basics activation functions, weight initializers, datasets, cost functions, optimizers, and utility functions.
 
 ## Features
 
